@@ -1,4 +1,4 @@
-use WebDB;
+use WebDB; 
 
 insert into User values (1, 'cho', 'Clara', 'Ho', 20), (2, 'batman', 'Robert', 'Pattinson', 36);
 insert into Password values (100, 'abc', 1, '2022-10-14', '2024-10-14'), (101, 'joker', 2, '2022-09-11', '2024-09-11');
